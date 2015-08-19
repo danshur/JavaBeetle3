@@ -7,7 +7,7 @@ public class Move2Beetles_3 {
 		ed.getPosition();
 		ed.turn(180);
 		
-		//sraw square beetles
+		//draw square beetles
 		drawSquare(bailey);
 		drawSquare(ed);
 	}
